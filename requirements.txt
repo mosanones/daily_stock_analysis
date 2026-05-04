@@ -47,3 +47,5 @@ mypy==1.8.0
 # Personal additions
 # jupyter for interactive exploration of stock data locally
 jupyter==1.0.0
+# ipywidgets for interactive charts inside jupyter notebooks
+ipywidgets==8.1.1
