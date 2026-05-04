@@ -43,3 +43,7 @@ isort==5.13.2
 
 # Type checking
 mypy==1.8.0
+
+# Personal additions
+# jupyter for interactive exploration of stock data locally
+jupyter==1.0.0
